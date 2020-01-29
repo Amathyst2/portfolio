@@ -6,7 +6,7 @@ layout: default
 
 <ul>
   <li>
-    <img src="/portfolio/assets/images/gallery1.png" width="100%"/>
+    <img src="assets/images/gallery1.png" width="100%"/>
   </li>
    <li>
     <img src="/portfolio/assets/images/gallery1.png"  width="100%"/>
