@@ -11,7 +11,7 @@ layout: default
 
 <p>
 <a href="https://steamcommunity.com/id/18345212451234512345">
-<img src="steampic.png"/>
+<img src="steam.jpg"/>
 </a>
 </p>
 
