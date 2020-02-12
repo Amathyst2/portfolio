@@ -4,16 +4,15 @@ layout: default
 
 # Social
 
-
-
 <html>
 <body>
 
 <p>
-<a href="https://steamcommunity.com/id/18345212451234512345">
-<img src="steam.jpg"/>
+An image as a link: <a href="https://www.w3schools.com">
+<img border="0" alt="W3Schools" src="logo_w3s.gif" width="100" height="100">
 </a>
 </p>
 
 </body>
 </html>
+
