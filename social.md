@@ -17,6 +17,16 @@ layout: default
      <img  alt="discord website" src="assets/images/discord-512.png" width="120" />
   </a>
 </p>
+<p>
+  <a href="https://www.facebook.com/raitis.puhovs">
+     <img  alt="facebook website" src="assets/images/Facebook_Logo_(2019).png" width="120" />
+  </a>
+</p>
+<p>
+  <a href="https://twitter.com/RaitisPuhovs">
+     <img  alt="twitter website" src="assets/images/17-170048_download-red-logo-png-twitter-logo-red-png.png" width="120" />
+  </a>
+</p>
 
 </body>
 </html>
