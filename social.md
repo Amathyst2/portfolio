@@ -24,7 +24,7 @@ layout: default
 </p>
 <p>
   <a href="https://twitter.com/RaitisPuhovs">
-     <img  alt="twitter website" src="assets/images/17-170048_download-red-logo-png-twitter-logo-red-png.png" width="120" />
+     <img  alt="twitter website" src="assets/images/twitter-logo-C591CF37A1-seeklogo.com.png" width="120" />
   </a>
 </p>
 
